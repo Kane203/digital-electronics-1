@@ -1,5 +1,8 @@
 # digital-electronics-1.
 # H1
+    f_orig_o <= (not(b_i) and a_i) or
+                (c_i and not(b_i or not(a_i)));
+    f_nand_o <= (not(b_i) nand a_i) nand (c_i nand (not(b_i) and a_i)); 
 ## H2
 ### H3
 
