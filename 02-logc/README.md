@@ -6,7 +6,7 @@
 
    Greater than:
 
-   ![K-maps](https://github.com/Kane203/digital-electronics-1/blob/main/02-logc/kmap_empty.png?raw=true)
+   ![K-maps](https://github.com/Kane203/digital-electronics-1/blob/main/02-logc/kmap_empty.png)
 
    Less than:
 
