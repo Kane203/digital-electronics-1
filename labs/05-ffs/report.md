@@ -12,10 +12,28 @@
 
 ```vhdl
 architecture behavioral of jk_ff_rst is
-
-    -- WRITE A SYNCHRONOUS PROCESS HERE
-
-    -- Output ports are permanently connected to local signal
+    signal sig_q : std_logic;
+    begin
+    p_jk_ff_rst : process (clk)
+    begin
+    if rising_edge(clk) then
+            if (rst = '1') then
+                sig_q <= '0';
+            elsif (j = '0') then
+                if (k = '0') then
+                    sig_q <= sig_q;
+                else
+                    sig_q <= '0';
+                end if;
+            else
+                if (k = '0') then
+                    sig_q <= '1';
+                else
+                    sig_q <= not sig_q;
+                end if;
+            end if;
+    end if;
+    end process p_jk_ff_rst;
     q     <= sig_q;
     q_bar <= not sig_q;
 end architecture behavioral;
