@@ -52,8 +52,7 @@ Write your text here.
 <a name="video"></a>
 
 ## Video
-
-Write your text here
+[picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
 
 <a name="references"></a>
 
