@@ -131,7 +131,7 @@ architecture Behavioral of morse_sender is
                                     data_ind <= (data_ind - 11) mod 21;
                                 elsif (data_1((data_ind - 12) mod 21)) = '1' then
                                     data_ind <= (data_ind - 12) mod 21;
-                                else
+                               
                                 end if;
                                 zero_cnt <= 0;
                                 output <= '0';
