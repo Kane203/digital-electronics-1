@@ -50,7 +50,7 @@ architecture Behavioral of mux_10bit_driver is
                     sig_6   <= "0000000000";
                     sig_7   <= "0000000000";
                
-                    elsif input /= sig_control then
+                    elsif (input /= sig_control) and (input /= "0000000000") then
                     
                         sig_8 <= sig_7;
                         sig_7 <= sig_6;
