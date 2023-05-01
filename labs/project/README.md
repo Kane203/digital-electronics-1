@@ -11,8 +11,7 @@
 * [Project objectives](#objectives)
 * [Project problems](#problems)
 * [Hardware description](#hardware)
-* [VHDL modules description and simulations](#modules)
-* [TOP module description and simulations](#top)
+* [Simulations](#modules)
 * [Video](#video)
 * [References](#references)
 
@@ -42,15 +41,27 @@ Write your text here.
 
 <a name="modules"></a>
 
-## VHDL modules description and simulations
+## Simulations
 
-Write your text here.
+top:
+![top](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/top.png)
 
-<a name="top"></a>
+sw driver:
+![sw driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/sw.png)
 
-## TOP module description and simulations
+sender:
+![sender](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/sender.png)
 
-Write your text here.
+mux driver:
+![mux driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/mux.png)
+
+display driver:
+![display driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/disp.png)
+
+clock driver:
+![clock driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/pics/clock.png)
+
+
 
 <a name="video"></a>
 
