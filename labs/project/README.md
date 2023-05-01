@@ -52,8 +52,13 @@ Write your text here.
 <a name="video"></a>
 
 ## Video
-[picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
+[First picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
 
+[Second picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/012.jpg)
+
+[Second picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/0123.jpg)
+
+[Second picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/0123a.jpg)
 <a name="references"></a>
 
 ## References
