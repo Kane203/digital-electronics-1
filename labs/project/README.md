@@ -57,7 +57,7 @@ Write your text here.
 ## Pictures
  Ukazka, jak fungue zadání kódu
 [First picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
-https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg
+(https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
 [Second picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/012.jpg)
 
 [Third picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/0123.jpg)
