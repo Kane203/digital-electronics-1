@@ -2,8 +2,8 @@
 
 ### Team members
 
-* Nurmukhanbet Mussabek (responsible for xxx)
-* Vladislav Karmanov (responsible for xxx)
+* Nurmukhanbet Mussabek 
+* Vladislav Karmanov 
 
 
 ### Table of contents
