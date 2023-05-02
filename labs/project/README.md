@@ -12,7 +12,7 @@
 * [Project problems](#problems)
 * [Hardware description](#hardware)
 * [Simulations](#modules)
-* [Video](#video)
+* [Pictures](#Pictures)
 * [References](#references)
 
 <a name="objectives"></a>
@@ -97,7 +97,7 @@ clock driver:
 
 
 
-<a name="video"></a>
+<a name="Pictures"></a>
 
 ## Pictures
  Ukazka, jak fungue zadání kódu
@@ -116,4 +116,6 @@ clock driver:
 
 ## References
 
-1. Write your text here.
+1. [Kód morse](https://kids.britannica.com/kids/article/Morse-Code/390814)
+2. [Nexys A7 Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual)
+3. Kódy z PC cvičení 
