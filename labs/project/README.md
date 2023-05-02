@@ -36,10 +36,15 @@ tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 
 <a name="hardware"></a>
 
 ## Hardware description
+
 Schéma pro top
+
+
 ![top](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/top.PNG)
 
 Schéma pro display driver
+
+
 ![display driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/display_driver.PNG)
 
 <a name="modules"></a>
@@ -71,7 +76,7 @@ clock driver:
 ## Pictures
  Ukazka, jak fungue zadání kódu
 
- 
+
 [First picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/01.jpg)
 
 [Second picture](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/012.jpg)
