@@ -47,8 +47,24 @@ Schéma pro display driver
 
 ![display driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/display_driver.PNG)
 
-Morse sender:
-Morse sender převádí 10bitový příchozí signál na 21bitový signál. Každý symbol, tečka nebo POMLČKA, se skládá ze 4 bitů. Tento kód odešle všechny tyto znaky v sekvenci.
+**Morse sender:**
+Morse sender převádí 10bitový příchozí signál na 21bitový signál. Každý symbol, tečka nebo pomlčka, se skládá ze 4 bitů. Tento kód odešle všechny tyto znaky v sekvenci.
+
+
+**Switch driver:**
+Switch driver se používá k převodu analogového signálu na digitální pro jeho použití jako způsob, jak nastavit morseový kód
+
+
+**Display driver:**
+Display driver slouží k sériovému přepínání všech displejů.
+
+
+**Hex 7seg:**
+Hex 7seg používá se k převodu 10bitového signálu Morseova kódu na 7bitový signál pro výstup informací na displej.
+
+
+**Mux 10 bit driver:**
+Mux 10 bit driver používá se k postupnému pohybu z jednoho displeje na druhý, symbol který nastavíme pomocí přepínačů.
 
 <a name="modules"></a>
 
