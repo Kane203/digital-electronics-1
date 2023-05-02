@@ -31,8 +31,11 @@ tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 
 **Hlavní problémy našeho kódu:**
 
 • Absence odesílatele
+
 • Nemožnost zobrazení dvou stejných znaků za sebou
+
 • Mezera mezi body v signálu se rovná mezeře mezi dvěma znaky
+
 • Po každém znaku v signálu vidíme tečku
 
 <a name="hardware"></a>
