@@ -47,6 +47,8 @@ Schéma pro display driver
 
 ![display driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/display_driver.PNG)
 
+### Popis funkce buňek 
+
 **Morse sender:**
 Morse sender převádí 10bitový příchozí signál na 21bitový signál. Každý symbol, tečka nebo pomlčka, se skládá ze 4 bitů. Tento kód odešle všechny tyto znaky v sekvenci.
 
