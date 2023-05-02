@@ -47,6 +47,9 @@ Schéma pro display driver
 
 ![display driver](https://github.com/Kane203/digital-electronics-1/blob/main/labs/project/display_driver.PNG)
 
+Morse sender:
+Morse sender převádí 10bitový příchozí signál na 21bitový signál. Každý symbol, tečka nebo POMLČKA, se skládá ze 4 bitů. Tento kód odešle všechny tyto znaky v sekvenci.
+
 <a name="modules"></a>
 
 ## Simulations
