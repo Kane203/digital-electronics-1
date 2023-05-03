@@ -20,7 +20,7 @@
 ## Project objectives
 
 Cílem našého projektu bylo vytvořit vysylač a přijimač Morseova kódu. Kód Morse to je způsob přenosu informace, který používá kombinace krátkých a dlouhých signálů (teček a pomlček) k kódování písmen, číslic a interpunkčních znamének. V našem projektu jsme místo 
-tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 10 přepínačů z pravého okraje. Funguje to takto: Chcete-li nastavit pomlčku, musíte zapnout dva přepínače a pro čárku je nutné, aby byl v zapnutém stavu pouze jeden pravý přepínač ze dvou. Také jsme v našem projektu použili dvě tlačítka: jedno, centrální, pro vymazání znaků z displeje a druhé, dole, pro zapamatování tohoto symbolu a jeho posunutí doleva a umožnění zobrazení více znaků( až 8 znaků). Pro odesílaní kódu používáme levý spínač, když se rozsvítí prava LEDka to znamená, že odeslání znaků z displeje je úspěšné.
+tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 10 přepínačů z pravého okraje. Funguje to takto: Chcete-li nastavit pomlčku, musíte zapnout dva přepínače a pro tečku je nutné, aby byl v zapnutém stavu pouze jeden pravý přepínač ze dvou. Také jsme v našem projektu použili dvě tlačítka: jedno, centrální, pro vymazání znaků z displeje a druhé, dole, pro zapamatování tohoto symbolu a jeho posunutí doleva a umožnění zobrazení více znaků( až 8 znaků). Pro odesílaní kódu používáme levý spínač, když se rozsvítí prava LEDka to znamená, že odeslání znaků z displeje je úspěšné.
 
 
 
