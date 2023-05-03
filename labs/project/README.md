@@ -36,7 +36,6 @@ tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 
 
 • Mezera mezi body v signálu se rovná mezeře mezi dvěma znaky
 
-• 0 a 6 nejsou spravné zobrazení
 
 <a name="hardware"></a>
 
