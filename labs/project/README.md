@@ -34,7 +34,7 @@ tlačitka pro zadavání kódu, použili přepínače. K tomu jsme potřebovali 
 
 • Nemožnost zobrazení dvou stejných znaků za sebou
 
-• Mezera mezi body v signálu se rovná mezeře mezi dvěma znaky
+• Mezera mezi tečkami v signálu se rovná mezeře mezi dvěma znaky
 
 
 <a name="hardware"></a>
